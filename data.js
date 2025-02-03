@@ -323,6 +323,7 @@ const riwayatPenyakitPasien = [
     dokterPenanggungJawab: "Dr. Tina",
   },
 ];
+
 const rekamPemeriksaan = [
   {
     idRekam: 1,
