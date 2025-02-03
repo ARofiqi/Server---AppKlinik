@@ -12,7 +12,7 @@ const db = mysql.createConnection({
   host: "localhost",
   user: "root",
   password: "", // Ganti dengan password MySQL Anda
-  database: "db_klinik",
+  database: "klinik",
 });
 
 db.connect((err) => {
